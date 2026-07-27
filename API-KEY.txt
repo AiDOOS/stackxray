@@ -1,0 +1,16 @@
+# ============================================================
+#  REQUIRED  -  StackXray reads your code with YOUR AI key
+# ============================================================
+#
+# StackXray needs an AI key to read your code and give specific,
+# validated findings. Paste ONE key below: remove the "#" and the
+# space at the start of the line, then SAVE this file.
+#
+# Claude (recommended):
+# ANTHROPIC_API_KEY=sk-ant-your-key-here
+#
+# OpenAI:
+# OPENAI_API_KEY=sk-your-key-here
+#
+# Your key and your code stay on this computer. The key is used only
+# to call your chosen AI provider, and is NEVER sent to AiDOOS.
